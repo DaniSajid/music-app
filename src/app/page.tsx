@@ -2,6 +2,7 @@ import AnimateCards from "@/components/AnimateCards";
 import FeaturedSection from "@/components/FeaturedSection";
 import HeroSection from "@/components/HeroSection";
 import ScrollSection from "@/components/ScrollSection";
+import UpcomingWebinars from "@/components/UpcomingWebinars";
 
 
 export default function Home() {
@@ -11,6 +12,7 @@ export default function Home() {
          <FeaturedSection/>
          <ScrollSection/>
          <AnimateCards/>
+         <UpcomingWebinars/>
     </main>
   );
 }
