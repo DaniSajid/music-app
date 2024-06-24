@@ -5,17 +5,17 @@ import { AnimatedTooltip } from "./ui/animated-tooltip";
 const instructors = [
     {
       id: 1,
-      name: 'Elena Briggs',
+      name: 'Daniyal Sajid',
       designation: 'Vocal Coach',
       image:
-        'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60',
+        'https://daniyalsajidportfolio.000webhostapp.com/admin/img/image-Photoroom.png',
     },
     {
       id: 2,
-      name: 'Marcus Reid',
+      name: 'Maaz Anis',
       designation: 'Guitar Instructor',
       image:
-        'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3540&q=80',
+        'https://media.licdn.com/dms/image/D4D03AQENNGxUeP3Z4g/profile-displayphoto-shrink_800_800/0/1697734126348?e=1724889600&v=beta&t=15WCvpY_HUUC_Yg9_tjUwXoCx4zOTE6myqxYKPC4dBU',
     },
     {
       id: 3,
