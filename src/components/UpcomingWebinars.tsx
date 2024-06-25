@@ -61,7 +61,7 @@ function UpcomingWebinars() {
         <div className="mt-10">
           <HoverEffect
            items={featuredWebinars.map((webinar, index) => ({
-            key: index,  // Ensure the key is unique
+            key: index,  
             title: webinar.title,
             description: webinar.description,
             link: `/webinars/${webinar.slug}`,
